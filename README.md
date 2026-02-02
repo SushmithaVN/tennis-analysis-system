@@ -6,11 +6,12 @@ This project demonstrates end-to-end sports video analysis using deep learning, 
 
 ---
 
-## 📽️ Output Demo
+# 📽️ Output Demo
 
-> ▶️ **Click play to view the analyzed output video directly below**
+![Tennis Analysis System Demo](output_videos/demo_preview.gif)
 
-<video src="output_videos/output_video2.mp4" controls width="100%"></video>
+*Above: Preview showing player tracking, ball detection, and speed analytics*  
+[📥 Download full output video](output_videos/output_video2.mp4)
 
 ---
 
