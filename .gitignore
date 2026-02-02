@@ -22,4 +22,4 @@ input_videos/
 
 # Ignore all output videos EXCEPT demo
 output_videos/*
-!output_videos/output_video2.mp4
+!output_videos/demo_preview.gif
