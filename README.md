@@ -6,7 +6,7 @@ This project demonstrates end-to-end sports video analysis using deep learning, 
 
 ---
 
-## 📽️ Output Demo
+# 📽️ Output Demo
 
 ![Tennis Analysis System Demo](output_videos/demo_preview.gif)
 
