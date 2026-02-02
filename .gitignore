@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO / training outputs
+runs/
+training/
+
+# Input data
+input_videos/
+
+# Large model weights
+*.pt
+*.pth
+
+# Ignore all output videos EXCEPT demo
+output_videos/*
+!output_videos/output_video2.mp4
